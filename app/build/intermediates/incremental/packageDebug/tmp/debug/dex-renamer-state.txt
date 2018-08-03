@@ -1,0 +1,4 @@
+#Sat Aug 04 01:54:30 IST 2018
+base.0=/home/shiz/Downloads/FetchImageRXRetro/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

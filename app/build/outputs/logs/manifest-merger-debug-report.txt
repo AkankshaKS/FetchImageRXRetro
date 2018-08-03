@@ -1,0 +1,132 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/shiz/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/bd08b8a2cdc21c1bb82c01e3682af1cd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/shiz/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/5a032b8a4516ae6a7320bf5bd136b7cf/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/shiz/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/15a373733e973b698f2bd697e6e76204/AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex:rxandroid:1.2.1] /home/shiz/.gradle/caches/transforms-1/files-1.1/rxandroid-1.2.1.aar/7c61c8997af10d6f180ba75a7523158c/AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/shiz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6c360b5ad7250936cf28feddd754fec6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/shiz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/32392451b332d1f0bea833ed71c172bc/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/shiz/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/5ef6b8d2faaef29d90e77710a00eda33/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/shiz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/dd480ba37165b9bcffb63bb3cdcf520f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/shiz/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/80c254d8eef43ab63de68da373eb9985/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/shiz/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/074d1487e413fbed1051e10fd436007c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/shiz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f0f80d086bfa8abcedc0c2de13b15112/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/shiz/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fe3d5c5b8326303219c58ae06f0ca755/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] /home/shiz/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/c92ba573a4c1ddb5db4c4facb271335c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/shiz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/de57c5e036c9bfdb035d6e0ce0d197b5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/shiz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/1e41cc3e27e67dae79fce83cd800eb21/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/shiz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/564c2db49bdd111c91d62be56bafd50b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/shiz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c4ac8515c2248dd6f3c880087544b2f7/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml
+		ADDED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml
+		ADDED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml:8:5-22:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/shiz/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/5a032b8a4516ae6a7320bf5bd136b7cf/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/shiz/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/5a032b8a4516ae6a7320bf5bd136b7cf/AndroidManifest.xml:7:5-12:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/shiz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/32392451b332d1f0bea833ed71c172bc/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/shiz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/32392451b332d1f0bea833ed71c172bc/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.shiz.fetchimagerxretro.MainActivity
+ADDED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml
+INJECTED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/shiz/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/bd08b8a2cdc21c1bb82c01e3682af1cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/shiz/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/bd08b8a2cdc21c1bb82c01e3682af1cd/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/shiz/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/5a032b8a4516ae6a7320bf5bd136b7cf/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/shiz/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/5a032b8a4516ae6a7320bf5bd136b7cf/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/shiz/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/15a373733e973b698f2bd697e6e76204/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/shiz/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/15a373733e973b698f2bd697e6e76204/AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex:rxandroid:1.2.1] /home/shiz/.gradle/caches/transforms-1/files-1.1/rxandroid-1.2.1.aar/7c61c8997af10d6f180ba75a7523158c/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex:rxandroid:1.2.1] /home/shiz/.gradle/caches/transforms-1/files-1.1/rxandroid-1.2.1.aar/7c61c8997af10d6f180ba75a7523158c/AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/shiz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6c360b5ad7250936cf28feddd754fec6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/shiz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6c360b5ad7250936cf28feddd754fec6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/shiz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/32392451b332d1f0bea833ed71c172bc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/shiz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/32392451b332d1f0bea833ed71c172bc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /home/shiz/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/5ef6b8d2faaef29d90e77710a00eda33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/shiz/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/5ef6b8d2faaef29d90e77710a00eda33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/shiz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/dd480ba37165b9bcffb63bb3cdcf520f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/shiz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/dd480ba37165b9bcffb63bb3cdcf520f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/shiz/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/80c254d8eef43ab63de68da373eb9985/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/shiz/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/80c254d8eef43ab63de68da373eb9985/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/shiz/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/074d1487e413fbed1051e10fd436007c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/shiz/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/074d1487e413fbed1051e10fd436007c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/shiz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f0f80d086bfa8abcedc0c2de13b15112/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/shiz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f0f80d086bfa8abcedc0c2de13b15112/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/shiz/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fe3d5c5b8326303219c58ae06f0ca755/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/shiz/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fe3d5c5b8326303219c58ae06f0ca755/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /home/shiz/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/c92ba573a4c1ddb5db4c4facb271335c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /home/shiz/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/c92ba573a4c1ddb5db4c4facb271335c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/shiz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/de57c5e036c9bfdb035d6e0ce0d197b5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/shiz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/de57c5e036c9bfdb035d6e0ce0d197b5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/shiz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/1e41cc3e27e67dae79fce83cd800eb21/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/shiz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/1e41cc3e27e67dae79fce83cd800eb21/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/shiz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/564c2db49bdd111c91d62be56bafd50b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/shiz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/564c2db49bdd111c91d62be56bafd50b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/shiz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c4ac8515c2248dd6f3c880087544b2f7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/shiz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c4ac8515c2248dd6f3c880087544b2f7/AndroidManifest.xml:20:5-44
+INJECTED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml
+INJECTED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml
+		ADDED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml
+		ADDED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shiz/Downloads/FetchImageRXRetro/app/src/main/AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /home/shiz/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/5a032b8a4516ae6a7320bf5bd136b7cf/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/shiz/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/5a032b8a4516ae6a7320bf5bd136b7cf/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/shiz/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/5a032b8a4516ae6a7320bf5bd136b7cf/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/shiz/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/5a032b8a4516ae6a7320bf5bd136b7cf/AndroidManifest.xml:9:13-64
